@@ -1,0 +1,1 @@
+# http-redmine.icinga-cba.cba.pl-projects-cba-repository
